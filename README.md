@@ -1,0 +1,3 @@
+# PaddlePaddle学习
+使用paddlepaddle框架实现眼疾图片的分类，涉及网络模型有AlexNet、GoogleNet、VGG、ResNet
+三层CNN实现猫狗分类
