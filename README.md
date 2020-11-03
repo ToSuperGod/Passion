@@ -10,5 +10,4 @@
 # 自动寻址
 根据人流量和车流量信息辅助建筑工程师判断出合适的建立地下车库。
 [链接](https://github.com/ToSuperGod/Passion/tree/master/Qt_find_three)  
-# 美乐吧（待更新）
-一款美颜小程序
+
